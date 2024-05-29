@@ -1,0 +1,46 @@
+3. Coding question
+Assignment: Social Media Application
+Objective:
+Build a simple social media application using the MERN (MongoDB, Express.js,
+React.js, Node.js) stack. The application should allow users to create accounts, post
+content, like, and comment on posts.
+Requirements:
+User Authentication:
+Users should be able to sign up and log in.
+Passwords must be securely hashed before storing in the database.
+Implement authentication using JWT (JSON Web Tokens).
+Posting Functionality:
+Authenticated users can create, read, update, and delete their posts.
+Each post should have a title, content, and an option to attach an image.
+Interaction:
+Users should be able to like and comment on posts.
+Comments should display the author's username, timestamp, and content.
+Frontend:
+Use React.js for the frontend.
+Design the UI/UX for a clean and intuitive user experience.
+Implement form validation and error handling.
+Backend:
+Use Express.js for the backend server.
+Connect to MongoDB database for storing user information, posts, and comments.
+Implement RESTful APIs for CRUD operations on users, posts, and comments.
+GitHub Repository:
+Create a public GitHub repository for the project.
+Commit regularly with descriptive commit messages.
+Include a README.md file with instructions to run the application locally.
+Deployment:
+Deploy the frontend on Vercel.
+Deploy the backend on Render.
+Update the README.md with the deployed URLs.
+Bonus Features (Optional):
+Implement real-time updates using WebSockets.
+Add pagination for posts and comments.
+Incorporate user profile pages with avatar and bio.
+Submission:
+Share the GitHub repository link with access to the code.
+Provide the deployed URLs of the frontend and backend.
+Evaluation Criteria:
+Code Quality: Clean, modular, and well-commented code.
+Functionality: Fulfilment of all requirements and bonus features.
+UI/UX: Intuitive design and responsive layout.
+Security: Proper handling of authentication, authorization, and data validation.
+Deployment: Successful deployment on Vercel and Render platforms.
